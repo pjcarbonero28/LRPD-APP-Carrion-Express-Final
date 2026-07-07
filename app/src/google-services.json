@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "432572071079",
+    "project_id": "carrion-express",
+    "storage_bucket": "carrion-express.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432572071079:android:8b8f2e45a0e623b7b1ef82",
+        "android_client_info": {
+          "package_name": "com.example.lrp2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJzoA3EyIEoxzFaPxKTvbyZjvKufNCPlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
